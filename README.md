@@ -1,1 +1,1 @@
-# predicadosProlog
+# PROLOG NA LÓGICA DE PREDICADOS
